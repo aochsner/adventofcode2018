@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6d66a53-6d63-437f-a5f7-c6fbd19f47b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day01.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day02.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/input_day1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/input_day2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/Day01Tests.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/Day02Tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -66,11 +60,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/Day02.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="55">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="220">
+              <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
             </state>
           </provider>
         </entry>
@@ -138,6 +141,7 @@
         <option value="$PROJECT_DIR$/src/main/resources/input_day2" />
         <option value="$PROJECT_DIR$/src/test/kotlin/Day02Tests.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/Day02.kt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -336,7 +340,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544205036438</updated>
-      <workItem from="1544205038259" duration="9409000" />
+      <workItem from="1544205038259" duration="9571000" />
     </task>
     <servers />
   </component>
@@ -373,7 +377,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9409000" />
+    <option name="totallyTimeSpent" value="9571000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="814" extended-state="6" />
@@ -480,8 +484,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/Day02.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="220">
+          <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
         </state>
       </provider>
     </entry>
