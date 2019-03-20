@@ -30,7 +30,7 @@ class Day04 {
                 it.key to minute // Guard to Minute
             }
         }
-            .groupBy { it }.maxBy { it.value.size }!!.key!!
+            .groupBy { it }.maxBy { it.value.size }!!.key
             .run { first * second }
     }
 }
